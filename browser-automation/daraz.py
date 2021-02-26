@@ -5,8 +5,6 @@
 
     Note : you must use chrome web driver (chromedriver.exe) to run this script. place this python script and chrome driver
         in same directory. Then run this script
-
-    This is my first script with selenium. So please ignore the error. I have writen this just for my practice
 """
 from selenium import webdriver
 from termcolor import colored
